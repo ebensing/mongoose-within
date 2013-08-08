@@ -10,6 +10,9 @@
     "type": "git",
     "url": "https://github.com/ebensing/mongoose-within"
   },
+  "peerDependencies": {
+    "mongoose": ">= 3.7"
+  },
   "keywords": [
     "mongoose",
     "within",
